@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.ibb.co/9TZVWdN/darkstussy-logo.png"></p>
-<h3 align="center">A backend developer from Bulgaria</h1>
+<h3 align="center">A backend developer from Bulgaria </h1>
 <br>
 <h3 align="center">Tech skills:</h3>
 <p align="center">
@@ -17,6 +17,9 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLAlchemy-F93434?style=for-the-badge">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
