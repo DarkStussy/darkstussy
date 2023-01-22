@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.ibb.co/9TZVWdN/darkstussy-logo.png"></p>
-<h3 align="center">A backend developer from Bulgaria </h1>
+<h3 align="center">A backend developer from Bulgaria</h3>
 <br>
 <h3 align="center">Tech skills:</h3>
 <p align="center">
@@ -22,4 +22,15 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+<br>
+<h3 align="center">Codewars:</p>
+<p align="center">
+  <a href="https://www.codewars.com/users/DarkStussy"><img src="https://www.codewars.com/users/DarkStussy/badges/large"></a>
+</p>
+<br>
+<h3 align="center">Contact:</h3>
+<p align="center">
+  <a href="https://t.me/darkstussy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:chornij.stas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
