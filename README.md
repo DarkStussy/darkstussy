@@ -1,7 +1,12 @@
 <p align="center"><img src="https://i.ibb.co/9TZVWdN/darkstussy-logo.png"></p>
-<h3 align="center">A backend developer from Bulgaria</h3>
+<h3 align="center">Hi there! I'm a Backend developer from Bulgaria</h3>
+<p align="center">
+  Currently I'm working on web applications and telegram bots.<br>
+  In my free time, I study computer systems architecture and algorithms.
+</p>
 <p align="center">
   <a href="https://t.me/darkstussy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/darkstussy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:chornij.stas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=DarkStussy"></p>
