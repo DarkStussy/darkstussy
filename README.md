@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/9TZVWdN/darkstussy-logo.png"></p>
 
-<h3 align="center">Hi there! I'm a Backend developer from Bulgaria</h3>
+<h3 align="center">Hi there! I'm a Backend developer</h3>
 <p align="center">
   Currently I'm working on web applications and telegram bots.<br>
   In my free time, I study computer systems architecture and algorithms.
