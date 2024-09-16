@@ -2,8 +2,7 @@
 
 <h3 align="center">Hi there! I'm a Backend developer</h3>
 <p align="center">
-  Currently I'm working on web applications and telegram bots.<br>
-  In my free time, I study computer systems architecture and algorithms.
+  Currently I'm working on web applications and telegram bots.
 </p>
 <p align="center">
   <a href="https://t.me/darkstussy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
