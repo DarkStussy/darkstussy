@@ -24,7 +24,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/aiogram-478FC6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/scrapy-FFFFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/clickhouse-FAFF69?style=for-the-badge">
   <img src="https://img.shields.io/badge/SQLAlchemy-F93434?style=for-the-badge">
 </p>
 <p align="center">
