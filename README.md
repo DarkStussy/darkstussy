@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 <br>
-<h3 align="center">Codewars:</p>
+<!-- <h3 align="center">Codewars:</p>
 <p align="center">
   <a href="https://www.codewars.com/users/DarkStussy"><img src="https://www.codewars.com/users/DarkStussy/badges/large"></a>
-</p>
+</p> -->
