@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/9TZVWdN/darkstussy-logo.png"></p>
 
-<h3 align="center">Hi there! I'm a Backend developer</h3>
+<!-- <h3 align="center">Hi there! I'm a Backend developer</h3>
 <p align="center">
   Currently I'm working on web applications and telegram bots.
 </p>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
-<br>
+<br> -->
 <!-- <h3 align="center">Codewars:</p>
 <p align="center">
   <a href="https://www.codewars.com/users/DarkStussy"><img src="https://www.codewars.com/users/DarkStussy/badges/large"></a>
